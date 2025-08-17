@@ -46,13 +46,10 @@ This **star schema** ensures optimized queries, scalability, and powerful visual
 
 ## 📸 Project Snapshot  
 ![Executive Page Screenshot](Assets/Executive_Summary.png)
-
-![Hospital Insights Page Screenshot]("Assets\Hospital_Insights.png").
-![Healthcare Provider Matrices Page Screenshot]("Assets\HP_Matrices.png").
-![Patient Outcome Analysis Page Screenshot]("Assets\Patient_Analysis.png").
-![Monthly Expenses Trends Page Screenshot]("Assets\MET.png").
-
- 
+![Hospital Insights Page Screenshot](Assets/Hospital_Insights.png)  
+![Healthcare Provider Matrices Page Screenshot](Assets/HP_Matrices.png)  
+![Patient Outcome Analysis Page Screenshot](Assets/Patient_Analysis.png)  
+![Monthly Expenses Trends Page Screenshot](Assets/MET.png)  
 
 ---
 
